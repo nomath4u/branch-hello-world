@@ -1,6 +1,6 @@
 #include <stdio.h> //Needed for printf to work
 void add_message (int include_newline){
-	printf("Hello World");
+	printf("Hello World,Really");
 	if (include_newline)
 	{
 		printf("\n");
